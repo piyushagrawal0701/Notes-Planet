@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import API from "../Services/notesApi";
-import NoteCard from "../components/NoteCard";
+import NoteCard from "../Components/NoteCard";
 import { FiSearch, FiFileText } from "react-icons/fi";
 
 const Home = () => {

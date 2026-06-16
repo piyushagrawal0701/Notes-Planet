@@ -2,6 +2,19 @@
 
 A full-stack Notes Management System built using the MERN stack that allows users to create, view, update, delete, and search notes efficiently.
 
+🚀 Live Demo
+🌐 [Live Application](https://notesplanet.vercel.app/)
+
+Notes Planet Live Demo
+
+⚙️ Backend API
+
+[Backend API](https://notes-planet.vercel.app/)
+
+📂 GitHub Repository
+
+[GitHub Repository](https://github.com/piyushagrawal0701/Notes-Planet)
+
 ## 🚀 Features
 
 ### Notes Management
