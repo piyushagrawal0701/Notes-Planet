@@ -1,9 +1,9 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Home from "./pages/Home";
-import CreateNote from "./pages/CreateNote";
-import EditNote from "./pages/EditNote";
-import ViewNote from "./pages/ViewNote";
+import Home from "./Pages/Home";
+import CreateNote from "./Pages/CreateNote";
+import EditNote from "./Pages/EditNote";
+import ViewNote from "./Pages/ViewNote";
 import { Toaster } from "react-hot-toast";
 
 function App() {
