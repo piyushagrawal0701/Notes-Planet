@@ -5,8 +5,6 @@ A full-stack Notes Management System built using the MERN stack that allows user
 🚀 Live Demo
 🌐 [Live Application](https://notesplanet.vercel.app/)
 
-Notes Planet Live Demo
-
 ⚙️ Backend API
 
 [Backend API](https://notes-planet.vercel.app/)
