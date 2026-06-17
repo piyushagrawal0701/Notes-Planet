@@ -63,7 +63,7 @@ const Home = () => {
 
             <Link
               to="/create"
-              className="bg-white text-indigo-600 px-6 py-3 rounded-xl font-semibold hover:scale-105 transition"
+              className="bg-white text-indigo-600 px-6 py-3 rounded-xl font-semibold hover:scale-105 transition justify-center items-center flex"
             >
               + Create Note
             </Link>
